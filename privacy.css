@@ -1,0 +1,14 @@
+a{
+    text-decoration: underline;
+}
+a:hover{
+    text-decoration: none;
+}
+
+.privacy{
+    padding-top: 150px;
+    text-align: center;
+}
+.privacy li{
+    list-style: none;
+}

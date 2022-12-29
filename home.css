@@ -1,0 +1,41 @@
+.about {
+    padding-top: 150px;
+    text-align: center;
+}
+
+.photos h1{
+    padding-left: 6px;
+}
+.photos{
+    padding: 25px;
+}
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+*{
+    box-sizing: border-box;
+}
+.gallery-responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+@media only screen and (max-width: 700px) {
+    .gallery-responsive {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .gallery-responsive {
+      width: 100%;
+    }
+}
+
+.drawings{
+    padding: 25px;
+}
+.drawings h1{
+    padding-left: 6px;
+}
