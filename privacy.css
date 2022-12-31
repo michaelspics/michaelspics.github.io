@@ -1,7 +1,7 @@
-a{
+.privacy a{
     text-decoration: underline;
 }
-a:hover{
+.privacy a:hover{
     text-decoration: none;
 }
 
